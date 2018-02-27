@@ -1,7 +1,8 @@
-latte-dock (0.7.3-1) UNRELEASED; urgency=medium
+latte-dock (0.7.3-1) unstable; urgency=medium
 
   * Update Copyright file.
   * Closes: #859642
+  * Adjust autoclean to remove generated desktop files
 
  -- Scarlett Clark <sgclark@kde.org>  Fri, 23 Feb 2018 14:53:50 -0700
 

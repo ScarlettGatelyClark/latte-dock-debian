@@ -1,0 +1,29 @@
+latte-dock (0.7.3-1) UNRELEASED; urgency=medium
+
+  * Update Copyright file.
+
+ -- Scarlett Clark <sgclark@kde.org>  Fri, 23 Feb 2018 14:53:50 -0700
+
+latte-dock (0.7.3-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Fri, 09 Feb 2018 15:19:42 +0000
+
+latte-dock (0.7.3-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Sun, 07 Jan 2018 09:47:13 +0000
+
+latte-dock (0.7.2-0neon) xenial; urgency=medium
+
+  * Update version
+
+ -- Scarlett Clark <sgclark@kde.org>  Thu, 31 Aug 2017 09:06:31 -0700
+
+latte-dock (0.6.0-0ubuntu1) UNRELEASED; urgency=medium
+
+  * Initial packaging
+
+ -- Rik Mills <rikmills@kubuntu.org>  Mon, 03 Apr 2017 10:39:09 +0100

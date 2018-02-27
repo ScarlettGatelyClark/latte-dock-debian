@@ -1,6 +1,7 @@
 latte-dock (0.7.3-1) UNRELEASED; urgency=medium
 
   * Update Copyright file.
+  * Closes: #859642
 
  -- Scarlett Clark <sgclark@kde.org>  Fri, 23 Feb 2018 14:53:50 -0700
 
